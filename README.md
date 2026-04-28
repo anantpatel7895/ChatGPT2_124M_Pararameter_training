@@ -1,0 +1,1 @@
+# ChatGPT2_124M_Pararameter_training
